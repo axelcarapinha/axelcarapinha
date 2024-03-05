@@ -9,5 +9,8 @@
 ## (2.2) Using for my current project:
 ![My Skills](https://skills.thijs.gg/icons?i=flask,react,kali,postgresql,py,java) 
 
+## (3.) Also...
+- having fun with competitive programming 
+
 
 

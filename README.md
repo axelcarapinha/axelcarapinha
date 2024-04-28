@@ -12,5 +12,4 @@
 
 ## (3.) Also enjoying:
 - Competitive programming 🥊
-- Wireshark
 - Computer networks (fundamentals)

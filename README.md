@@ -7,7 +7,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,bash,kali)](https://skillicons.dev)
 
 ## (2.2) Using for my current project
-[![My Skills](https://skillicons.dev/icons?i=c,cmake,azure,kali,docker,postgresql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cmake,azure,kali,docker)](https://skillicons.dev)
 
 ## (3.) Also enjoying:
 - competitive programming 🥊

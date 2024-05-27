@@ -1,7 +1,7 @@
 ### Welcome! 👨‍💻
 
 ## (1.) Have worked with:
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,bash,docker,postgresql,html,js,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,ansible,bash,docker,postgresql,html,js,css)](https://skillicons.dev)
 
 ## (2.1) Ongoing side learnings
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,nginx,kali,azure,ansible,arch,nvim)](https://skillicons.dev)

@@ -4,7 +4,7 @@
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,bash,docker,ansible,postgresql,html,js,css)](https://skillicons.dev)
 
 ## (2.) Learning && / || using for a project
-[![My Skills](https://skillicons.dev/icons?i=azure,python,flask,html,css,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,python,flask,html,css,mysql)](https://skillicons.dev) <br />
 #com-a-cabeca-nas-nuvens
 
 ## (3.) Also enjoying:

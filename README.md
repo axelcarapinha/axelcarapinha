@@ -8,5 +8,6 @@
 #com-a-cabeca-nas-nuvens
 
 ## (3.) Also enjoying:
+- Computer Networks
+- Cybersecurity
 - Competitive programming 🥊
-- Computer networks

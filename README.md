@@ -8,6 +8,5 @@
 #com-a-cabeca-nas-nuvens
 
 ## (3.) Also enjoying:
-- Computer Networks (<a href="https://www.credly.com/users/axel-carapinha">here</a> are my certifications)
-- Hack the Box
-- Competitive programming
+- Computer Networks (<a href="https://www.credly.com/users/axel-carapinha">my certifications</a>)
+- Competitive programming 🥊

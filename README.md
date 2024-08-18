@@ -9,4 +9,5 @@
 
 ## (3.) Also enjoying:
 - Computer Networks (<a href="https://www.credly.com/users/axel-carapinha">my certifications</a>)
+- CTFs
 - Competitive programming 🥊

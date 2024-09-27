@@ -3,7 +3,7 @@
 ## (1.) Have worked with:
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,bash,docker,azure,ansible,postgresql,flask,html,js,css)](https://skillicons.dev)
 
-## (2.) Learning and / or using for a project
+## (2.) Learning
 [![My Skills](https://skillicons.dev/icons?i=kali,raspberrypi)](https://skillicons.dev) <br />
 
 ## (3.) Also

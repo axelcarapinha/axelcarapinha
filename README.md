@@ -9,4 +9,5 @@
 ## (3.) Also
 - Computer Networks (<a href="https://www.credly.com/users/axel-carapinha">my certifications</a>)
 - CTFs with <a href="https://sectt.github.io/">STT</a>
-- My <a href="https://axelcarapinha.github.io/>blog and portfolio</a> :)
+
+Feel free to visit my <a href="https://axelcarapinha.github.io/">blog and portfolio</a> :)

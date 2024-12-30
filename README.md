@@ -8,6 +8,7 @@
 
 ## (3.) Also
 - CTF player at <a href="https://sectt.github.io/">STT</a>
-- Computer Networks (<a href="https://www.credly.com/users/axel-carapinha">certifications</a>) and a server
+- Some computer networks (<a href="https://www.credly.com/users/axel-carapinha">certifications</a>)
 - My <a href="https://axelcarapinha.github.io/">blog and portfolio</a>
 - My <a href="http://axelamc.com/docs/cv.pdf">CV</a>
+- Following the white rabbit into the self-hosting world with a RaspBerry 3,14159...

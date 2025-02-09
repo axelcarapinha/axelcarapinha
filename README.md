@@ -8,6 +8,5 @@
 
 ## (3.) Also
 - CTF player at <a href="https://sectt.github.io/">STT</a>
-- My <a href="https://axelcarapinha.github.io/">blog and portfolio</a>
-- My <a href="http://axelamc.com/docs/cv.pdf">CV</a>
+- My blog, portfolio and CV <a href="https//:axelamc.com">here</a>!
 - Following the white rabbit into the self-hosting world with a RaspBerry 3,14159...
